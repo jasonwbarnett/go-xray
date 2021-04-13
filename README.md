@@ -13,7 +13,7 @@ library (it even uses their awesome client library) and attempts to follow a sim
 ## Usage
 
 ```go
-import "github.com/xero-github/go-xray/xray"
+import "github.com/jasonwbarnett/go-xray/xray"
 ```
 
 Construct a new Xray client like so:
@@ -44,7 +44,7 @@ For API methods that require HTTP Basic Authentication, use the `BasicAuth` or `
 package main
 
 import (
-	"github.com/xero-github/go-xray/xray"
+	"github.com/jasonwbarnett/go-xray/xray"
 	"fmt"
 	"context"
 )
