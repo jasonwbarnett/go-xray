@@ -2,8 +2,8 @@ package xray
 
 import (
 	"github.com/atlassian/go-artifactory/v2/artifactory/client"
-	"github.com/xero-oss/go-xray/xray/v1"
-	"github.com/xero-oss/go-xray/xray/v2"
+	"github.com/jasonwbarnett/go-xray/xray/v1"
+	"github.com/jasonwbarnett/go-xray/xray/v2"
 
 	"net/http"
 )
